@@ -1,0 +1,30 @@
+/* ALL THANKS AND GLORY TO THE AND my ONLY GOD AND LORD JESUS CHRIST ALONE */
+ul.GTLJC_ul_header li{
+    list-style-type: none;
+    width: auto;
+    flex: 0 0 auto;
+    font-size: 3vmin;
+    font-weight: 900;
+}
+
+
+ul.GTLJC_ul_header{
+    width: 70%;
+    padding-left: 50vmin;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    
+}
+
+nav#GTLJC_nav_header{
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    
+}
+
+nav#GTLJC_nav_header img{
+    width: 10vmin;
+}
+
